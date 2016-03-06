@@ -1,0 +1,19 @@
+{
+  "name": "timothi",
+  "version": "1.0.0",
+  "description": "Timothi.com wp theme",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shango/timothi.git"
+  },
+  "author": "shango",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shango/timothi/issues"
+  },
+  "homepage": "https://github.com/shango/timothi#readme"
+}
